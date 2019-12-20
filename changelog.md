@@ -1,0 +1,6 @@
+-SeLinux Enforcing
+-Gapps Not included
+-Update BuildFingerprint 
+-Slow Wifi speed fixed
+-Gcam crashes fixed 
+-Soon Official
