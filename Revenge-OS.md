@@ -28,7 +28,7 @@
  - audio: Import missing SND_Devices from MIUI 11
  - TWRP INCLUDED
 
-**Update Dated 2020-01-23**
+**Update Dated 2020-01-24**
 
  - Updated All Blobs from latest android 10 stock update of MiA2
  - Updated Vendor Security Patch and Build Fingerprint
