@@ -36,7 +36,12 @@
  - Miui Camera Removed
  - Kernel Upstreamed to 4.4.210
  - January Security Patch Merged
+ 
+ **Update Dated 2020-02-06**
 
-# 
+ - Lock Screen Weather
+ - Miui Camera Readded
+ - Kernel Upstreamed to 4.4.212
+ - Kernel Release name is Meme Edition
+ - February Security Patch Merged
 
-# **CLEAN FLASH IS MANDATORY**
